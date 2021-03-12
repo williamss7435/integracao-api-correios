@@ -52,7 +52,8 @@ Configurar os campos (username, password, host) do arquivo backend-faceuser/src/
     host: 'localhost',
     
 cd backend-faceuser
-npx sequelize-cli db:migrate (Carregar schema das tabelas)
+npx sequelize-cli db:migrate          
+npx sequelize-cli db:seed:all
 npm run dev
 ```
 
