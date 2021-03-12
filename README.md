@@ -2,8 +2,8 @@
   <img src="web-medicuser/src/assets/images/icon-medicuser-blue.png"/>
 </p>
 <p align="center">
-  App de cadastro de médicos com integração com a api dos correrios
-  <strong>Front-end não foi 100% implementado</strong>
+  App de cadastro de médicos com integração com a api dos correrios<br>
+  - <strong>Front-end não foi 100% implementado</strong>
 </p>
 
 ## Tecnologias
@@ -22,7 +22,7 @@
 - [x] Styled Components
 ```
 
-## Imagem
+## Imagens
 <p align="center">
   <img src="uploads/main-page.jpg"/>
 </p>
