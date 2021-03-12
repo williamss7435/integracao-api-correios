@@ -5,9 +5,6 @@
   App de cadastro de médicos com integração com a api dos correrios
   <strong>Front-end não foi 100% implementado</strong>
 </p>
-<p align="center">
-  <img src="uploads/faceusergif.gif"/>
-</p>
 
 ## Tecnologias
 ```
